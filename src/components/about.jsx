@@ -13,8 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am a Graduate Student in Computer Science at Texas Tech University. I have around 3 years of work experience in the Software domain through which I gained skills in Full-Stack development. Working in different industries like IT, Oil&Gas, and Education has given me a unique perspective on software engineering and how this skill can be adapted and modified to various use cases. I have also worked both in a small and a large team for startup and an MNC respectively, this has allowed me to develop various working styles. In my graduate school, I have worked with Data Science which gives me an insight into a highly utilitarian technology which can be used to solve problems of various industries. I also like to write about technology and how it impacts our society. Check out my Medium page !  </p>
                     </div>
                 </div>
                 </div>
@@ -27,7 +26,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">Here are some of my skills</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -37,8 +36,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Programming and Scripting Languages </h3>
+                    <p>Python, SQL, JavaScript, HTML, CSS, Java, R, C, Unix/Linux.</p>
                 </div>
                 </div>
             </div>
@@ -48,8 +47,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Frameworks and Tools</h3>
+                    <p>Oracle, Azure Cloud, GitHub, Node JS, React JS, Angular, Docker, AWS, REST APIs, UI/UX, MSSQL, MongoDB, NLP, Information Retrieval, Pandas, Kubernetes, Agile</p>
                 </div>
                 </div>
             </div>
@@ -59,8 +58,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Data Science</h3>
+                    <p>R, Python, Anaconda, Jupyter Notebook, NLP, Neural Networks, Pandas, Numpy, TensorFlow, Keras</p>
                 </div>
                 </div>
             </div>
